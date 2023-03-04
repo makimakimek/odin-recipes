@@ -1,0 +1,32 @@
+h1 {
+    color: darkblue;
+    font-family: "DejaVu Sans", sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    text-align: left;
+}
+
+li {
+    color: blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+    font-weight: 200;
+    text-align: left;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+p {
+    color: blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+    font-weight: 200;
+    text-align: left;
+}
+
+body {
+    background-color: aliceblue;
+}
